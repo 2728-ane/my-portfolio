@@ -668,3 +668,14 @@ section:not(.hero) h2 {
     }
 
 }
+
+.project-badge {
+    display: inline-block;
+    background: #2563eb;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
